@@ -1,9 +1,10 @@
 ### Hi there! and Welcome to my GitHub page 
 
 - 👋 Hi, I’m @BhushanSah3
-- 👀 I’m interested in App Development 
+- 👀 I’m interested in App Developme
+- 💬 Ask me about Android. 
 - 🌱 I’m currently learning Kotlin.
-- 💞️ I’m looking to collaborate on App development.
+- 📫 How to reach me shahbhushan73@gmail.com.
 - 😄 Pronouns: He/Him.
 - ⚡ Real fact: The first rule of Fight Club is "you do not talk about Fight Club".
 
@@ -22,6 +23,15 @@
 <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?logo=adobe-lightroom&logoColor=white&style=for-the-badge" />
 <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?logo=adobe-premiere-pro&logoColor=white&style=for-the-badge" />
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+
+<img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white&color=4285F4&style=for-the-badge" />
+<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&color=3DDC84&style=for-the-badge" />
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&color=FCC624&style=for-the-badge" />
+<img alt="XML" src="https://img.shields.io/badge/XML-FFA500?logo=xml&logoColor=white&color=FFA500&style=for-the-badge" />
+<img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack_Compose-6200EE?logo=android&logoColor=white&color=6200EE&style=for-the-badge" />
+
+
+
 <!--
 <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
