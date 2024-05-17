@@ -1,8 +1,7 @@
 ### Hi there! and Welcome to my GitHub page 
 
 - 👋 Hi, I’m @BhushanSah3
-- 👀 I’m interested in App Developme
-- 💬 Ask me about Android. 
+- 👀 I’m interested in App Development.
 - 🌱 I’m currently learning Kotlin.
 - 📫 How to reach me shahbhushan73@gmail.com.
 - 😄 Pronouns: He/Him.
