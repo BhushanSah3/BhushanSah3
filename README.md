@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @BhushanSah3
 - 👀 I’m interested in App Development.
-- 🌱 I’m currently learning Kotlin.
+- 🌱 I’m currently learning Flutter.
 - 📫 How to reach me shahbhushan73@gmail.com.
 - ⚡ Real fact: The first rule of Fight Club is "you do not talk about Fight Club".
 
