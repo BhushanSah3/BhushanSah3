@@ -24,6 +24,13 @@
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&color=3DDC84&style=for-the-badge" />
 <img alt="XML" src="https://img.shields.io/badge/XML-FFA500?logo=xml&logoColor=white&color=FFA500&style=for-the-badge" />
 <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack_Compose-6200EE?logo=android&logoColor=white&color=6200EE&style=for-the-badge" />
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
+<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" />
+
+<img alt="REST API" src="https://img.shields.io/badge/REST_API-005571?logo=api&logoColor=white&style=for-the-badge" />
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=for-the-badge" />
+<img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge" />
+
 
 
 
