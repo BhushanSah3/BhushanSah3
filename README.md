@@ -37,6 +37,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BhushanSah3&theme=aura&hide_border=false)
 
+<!-- most used language -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BhushanSah3&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!--
 🏆 GitHub Trophies
@@ -45,3 +46,32 @@
 -->
 ![](https://visitcount.itsvg.in/api?id=BhushanSah3&icon=0&color=1)
 
+
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=BhushanSah3&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
+
+## Streak Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=BhushanSah3&theme=aura&hide_border=false)
+
+## Visitors
+![](https://visitcount.itsvg.in/api?id=BhushanSah3&icon=0&color=1)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BhushanSah3&theme=aura&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhushanSah3&theme=aura&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=BhushanSah3&icon=0&color=1" />
+</p>
+
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BhushanSah3&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=BhushanSah3&theme=aura&hide_border=false)
+
+![Visitors](https://komarev.com/ghpvc/?username=BhushanSah3&color=blue)
