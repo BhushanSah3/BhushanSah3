@@ -38,11 +38,15 @@
 ![ShadCN](https://img.shields.io/badge/ShadCN-18181B?style=for-the-badge&logo=ui&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenAI Gym](https://img.shields.io/badge/OpenAI_Gym-0081A5?style=for-the-badge&logo=openai&logoColor=white)
-<!--
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
 <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<!--
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&color=FCC624&style=for-the-badge" />
 <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?logo=adobe-lightroom&logoColor=white&style=for-the-badge" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+
  -->
 
 </p>
