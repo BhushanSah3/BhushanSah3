@@ -1,6 +1,12 @@
-### Hi there! and Welcome to my GitHub page 
+# Hello, I'm **Bhushan Sah** 👨‍💻 
+
+### Welcome to my GitHub page 
+
 # 💫 About Me:
-<br>- 👋 Hi, I’m  Bhushan Sah<br>- 👀 I’m interested in App Development.<br>- 🌱 I’m currently learning AI/ML.<br>- 📫 How to reach me shahbhushan73@gmail.com.<br>- ⚡ Real fact: The first rule of Fight Club is "you do not talk about Fight Club".
+- 👀 I’m interested in App Development.
+- 🌱 I’m currently learning AI/ML.
+- 📫 How to reach me shahbhushan73@gmail.com.
+- ⚡ Real fact: The first rule of Fight Club is "you do not talk about Fight Club".
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -48,11 +54,21 @@
 <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?logo=adobe-lightroom&logoColor=white&style=for-the-badge" />
 
  -->
+ 
+## 💼 Current Focus & Projects
 
-</p>
+### [VeriStream](https://github.com/BhushanSah3/veristream_)
+I am actively working on **Veristream**, an AI-Powered Content Analysis Platform.
+
+**Key Features**:
+
+- Developed a full-stack misinformation detection platform using React (Tailwind CSS) and FastAPI.
+- Integrated LLaMA 3.3 for text analysis, Whisper for audio transcription, and Google Safe Browsing API.
+- Achieved 95% accuracy via contextual NLP, speech-to-text, and real-time fact-checking.
+- Enabled multilingual support for 40+ languages with low-latency, scalable AI pipelines.
 
  ---
- ### Drop me a line! 
+ ##  Connect With Me  🤝
  <p>
   <a href="https://twitter.com/BhuvanShah_">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
