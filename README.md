@@ -85,4 +85,4 @@ I am actively working on **Veristream**, an AI-Powered Content Analysis Platform
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BhushanSah3&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!--  ![Visitors](https://komarev.com/ghpvc/?username=BhushanSah3&color=blue) -->
+ ![Visitors](https://komarev.com/ghpvc/?username=BhushanSah3&color=blue) 
