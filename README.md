@@ -3,8 +3,8 @@
 ### Welcome to my GitHub page 
 
 # 💫 About Me:
-- 👀 I’m interested in App Development.
-- 🌱 I’m currently learning AI/ML.
+- 👀 I’m interested in Building and Designing Solutions.
+- 🌱 I’m always learning AI & ML.
 - 📫 How to reach me shahbhushan73@gmail.com.
 - ⚡ Real fact: The first rule of Fight Club is "you do not talk about Fight Club".
 
@@ -12,7 +12,6 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
@@ -29,8 +28,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 <img alt="REST API" src="https://img.shields.io/badge/REST_API-005571?logo=api&logoColor=white&style=for-the-badge" />
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=for-the-badge" />
 <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge" />
@@ -41,20 +38,14 @@
 ![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=natural-language-processing&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-008000?style=for-the-badge&logo=ai&logoColor=white)
-![ShadCN](https://img.shields.io/badge/ShadCN-18181B?style=for-the-badge&logo=ui&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenAI Gym](https://img.shields.io/badge/OpenAI_Gym-0081A5?style=for-the-badge&logo=openai&logoColor=white)
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-<!--
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&color=FCC624&style=for-the-badge" />
-<img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?logo=adobe-lightroom&logoColor=white&style=for-the-badge" />
 
- -->
- 
+
 ## 💼 Current Focus & Projects
 
 ### [VeriStream](https://github.com/BhushanSah3/veristream_)
@@ -70,9 +61,6 @@ I am actively working on **Veristream**, an AI-Powered Content Analysis Platform
  ---
  ##  Connect With Me  🤝
  <p>
-  <a href="https://twitter.com/BhuvanShah_">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
-  </a>
   <a href="https://www.linkedin.com/in/bhushan-sah-503b38204/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 </p>
 
